@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://118.31.70.159:8001/GuoHuaQiHuo/resigned.ipa</string><!--修改这里-->
+                        <string>http://118.31.70.159:8003/GuoHuaQiHuo/resigned.ipa</string><!--修改这里-->
                     </dict>
                 </array>
                 <key>metadata</key>
