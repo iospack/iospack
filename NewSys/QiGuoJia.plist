@@ -11,19 +11,19 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://118.31.70.159:8003/MingHuiGuoJi/resigned.ipa</string><!--修改这里-->
+                        <string>http://118.31.70.159:8003/QiGuanJia/resigned.ipa</string><!--修改这里-->
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                     <string>com.NewMingHuiGuoJi.StockApp</string><!--修改这里-->
+                     <string>com.QiGuanJia.StockApp</string><!--修改这里-->
                      <key>bundle-version</key>
                     <string>3.1.1</string><!--修改这里-->
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>名汇国际</string><!--修改这里-->
+                    <string>期管家</string><!--修改这里-->
                 </dict>
             </dict>
         </array>
